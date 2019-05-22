@@ -1,0 +1,16 @@
+.selected {
+    color: #ff0000;
+}
+
+.navlinks li a:hover {
+    color: #fff090;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+.bears li {
+    list-style: none;
+    display: inline-block;
+}
